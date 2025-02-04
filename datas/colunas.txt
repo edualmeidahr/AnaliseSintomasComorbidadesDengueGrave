@@ -1,0 +1,178 @@
+# 1.   DT_SIN_PRI
+
+
+*   Date
+
+
+2.   NU_IDADE_N
+
+*   Int
+
+
+3.   CS_SEXO
+
+*   Category
+
+
+4.   FEBRE
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+
+5.   MIALGIA
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+6.   CEFALEIA
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+7.   EXANTEMA
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+8.   VOMITO
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+9.   NAUSEA
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+10.  DOR_COSTAS
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+11.  CONJUNTVIT
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+12.  ARTRITE
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+13.  ARTRALGIA
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+14.  PETEQUIA_N
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+15.  LEUCOPENIA
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+16.  LACO
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+17.  DOR_RETRO
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+18.  DIABETES
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+19.  HEMATOLOG
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+20.  RENAL
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+21.  HIPERTENSA
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+22.  ACIDO_PEPT
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+23.  AUTO_IMUNE
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+
+24.  RESUL_SORO
+
+*   1 - REAGENTE
+*   2 - NÃO REAGENTE
+*   3 - INCONCLUSIVO
+*   4 - NÃO REALIZADO
+
+25.  RESUL_NS1
+
+*   1 - REAGENTE
+*   2 - NÃO REAGENTE
+*   3 - INCONCLUSIVO
+*   4 - NÃO REALIZADO
+
+26.  RESUL_PCR_
+
+*   1 - REAGENTE
+*   2 - NÃO REAGENTE
+*   3 - INCONCLUSIVO
+*   4 - NÃO REALIZADO
+
+27.  HOSPITALIZ
+
+*   1 - SIM
+*   2 - NÃO
+*   9 - IGNORADO
+28.  CLASSI_FIN
+
+*   5 - DESCARTADO
+*   10 - DENGUE
+*   11 - DENGUE COM SINAIS DE ALARME
+*   12 - DENGUE GRAVE
+*   8 - INCOCLUSIVO
+
+29.  EVOLUCAO
+
+*   1 - CURA
+*   2 - ÓBITO POR DENGUE
+*   3 - ÓBITO POR OUTRAS CAUSAS
+*   4 - ÓBITO EM INVESTIGAÇÃO
+*   5 - IGNORADO
